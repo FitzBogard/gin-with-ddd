@@ -1,8 +1,8 @@
 module go-ddd
 
-go 1.19
+go 1.16
 
 require (
-	github.com/gin-gonic/gin v1.5.0
+	gorm.io/driver/mysql v1.4.7
 	gorm.io/gorm v1.24.6
 )
